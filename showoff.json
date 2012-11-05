@@ -1,0 +1,12 @@
+{ 
+  "name": "Ruby", 
+  "sections": [ 
+    {"section":"intro"},
+    {"section":"what"},
+    {"section":"why"},
+    {"section":"ecosystem"},
+    {"section":"real-world"},
+    {"section":"showoff"},
+    {"section":"ending"}
+  ]
+}
